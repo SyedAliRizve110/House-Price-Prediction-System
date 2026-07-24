@@ -104,7 +104,7 @@ The project includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/california-house-price-prediction.git
+git clone https://github.com/syedalirizve110/california-house-price-prediction.git
 ```
 
 Navigate to the project directory:
